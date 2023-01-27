@@ -5,7 +5,7 @@ import Events from "./components/event.js";
 import Foot from "./components/foot.js";
 function App() {
   return (
-    <div>
+    <div className="container">
       <Toolbar />
       <Aboutus />
       <Team />

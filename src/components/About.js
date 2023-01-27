@@ -8,7 +8,7 @@ export default function Aboutus() {
       <div className="flex flex-wrap justify-around gap-10 pt-10">
         <div>
           <img
-            className="w-72 rounded-full border-2 shadow-xl hover:animate-spin animate-pulse"
+            className="w-72 rounded-full border-2 shadow-xl animate-pulse"
             src={heads}
             alt="not found"
           />

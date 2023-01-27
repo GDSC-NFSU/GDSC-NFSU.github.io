@@ -5,7 +5,7 @@ import { HashLink as Link } from "react-router-hash-link";
 function Toolbar() {
   return (
     <BrowserRouter>
-      <div className="h-screen">
+      <div className="h-screen overflow-auto">
         {/* {bg-[#4285F4]} */}
         <div className="mt-5  border bg-blue-100 ">
           <div className="md:flex justify-between pb-5 pt-5">
@@ -52,7 +52,7 @@ function Toolbar() {
           </div>
         </div>
         {/* {style={{backgroundImage:`url(${code})`}}} */}
-        <div className="flex flex-wrap justify-around justify-center pt-16 gap-10 bg-no-repet ">
+        <div className="flex flex-wrap justify-around justify-center pt-16 gap-10 overflow-hidden">
           <div className="w-3/4 md:w-1/2 xl:w-1/4 ">
             <h1 className="font-sans font-bold text-3xl animate-bounce ">
               "Weclome To Google Developers Student Club NFSU"

@@ -7,10 +7,12 @@ import loc from "../images/placeholder.png";
 export default function Foot() {
   return (
     <div className="">
+      
       <div
-        className="pt-20 h-3/4"
+        className=" h-3/4"
         style={{ backgroundImage: `url(${background})` }}
       >
+        <h1 className="text-white text-center pb-20 underline"><a href="https://ryuk-jayant.github.io/Jayant-Dubey/">Made For GDSC_NFSU by Jayant Dubey</a></h1>
         <div className="flex flex-wrap justify-around justify-center iteams-center text-white gap-y-10">
           <div>
             <img className="w-96" src={logo} alt="not fiuns" />

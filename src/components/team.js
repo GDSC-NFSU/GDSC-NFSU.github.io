@@ -5,6 +5,7 @@ import team4 from "../images/divyansh.jpg";
 import team5 from "../images/maanas.jpg";
 import team6 from "../images/shashi_raj.webp";
 import team7 from "../images/Aditi.jpeg";
+import insta from "../images/instagram(1).png";
 export default function Team() {
   return (
     <div className="" id="Team">
@@ -24,12 +25,12 @@ export default function Team() {
             </div>
             <div className="absolute my-rotate-y-180 backface-hidden w-full h-full bg-[#0F9D58] overflow-hidden">
               <div className="text-center flex flex-col items-center justify-center h-full text-gray-800 px-2 pb-24">
-                <h1 className="text-3xl font-semibold">Core Team member</h1>
+                <h1 className="text-3xl font-semibold">Jayant Dubey</h1>
                 <p
                   className="my-2"
                   title="i am bored with this coding  i want to go home!!"
                 >
-                  Coding & Web Vertical
+                  Core Member 
                 </p>
                 <p>
                   about member Lorem ipsum dolor sit amet consectetur
@@ -37,6 +38,10 @@ export default function Team() {
                   libero non quasi, odit natus veritatis enim culpa nam
                   inventore doloribus quidem temporibus amet velit accusamus.
                 </p>
+                <div className="mt-10 flex gap-10">
+                  <div>instagram</div>
+                  <div>linkdin</div>
+                </div>
               </div>
             </div>
           </div>
@@ -53,14 +58,18 @@ export default function Team() {
             </div>
             <div className="absolute my-rotate-y-180 backface-hidden w-full h-full bg-[#EA4335] overflow-hidden">
               <div className="text-center flex flex-col items-center justify-center h-full text-gray-800 px-2 pb-24">
-                <h1 className="text-3xl font-semibold">Lead lodu</h1>
-                <p className="my-2">Co-ordinator</p>
+                <h1 className="text-3xl font-semibold">Nitish Deshpandey</h1>
+                <p className="my-2">Lead</p>
                 <p>
                   about member Lorem ipsum dolor sit amet consectetur
                   adipisicing elit. Facilis itaque assumenda saepe animi maxime
                   libero non quasi, odit natus veritatis enim culpa nam
                   inventore doloribus quidem temporibus amet velit accusamus.
                 </p>
+                <div className="mt-10 flex gap-10">
+                  <div>instagram</div>
+                  <div>linkdin</div>
+                </div>
               </div>
             </div>
           </div>
@@ -77,14 +86,18 @@ export default function Team() {
             </div>
             <div className="absolute my-rotate-y-180 backface-hidden w-full h-full bg-[#0F9D58] overflow-hidden">
               <div className="text-center flex flex-col items-center justify-center h-full text-gray-800 px-2 pb-24">
-                <h1 className="text-3xl font-semibold">Core Team Member</h1>
-                <p className="my-2">Coding Vertical</p>
+                <h1 className="text-3xl font-semibold">Avneesh Pandey</h1>
+                <p className="my-2">Core Member</p>
                 <p>
                   about member Lorem ipsum dolor sit amet consectetur
                   adipisicing elit. Facilis itaque assumenda saepe animi maxime
                   libero non quasi, odit natus veritatis enim culpa nam
                   inventore doloribus quidem temporibus amet velit accusamus.
                 </p>
+                <div className="mt-10 flex gap-10">
+                  <div>instagram</div>
+                  <div>linkdin</div>
+                </div>
               </div>
             </div>
           </div>
@@ -101,14 +114,18 @@ export default function Team() {
             </div>
             <div className="absolute my-rotate-y-180 backface-hidden w-full h-full bg-[#F4B400] overflow-hidden">
               <div className="text-center flex flex-col items-center justify-center h-full text-gray-800 px-2 pb-24">
-                <h1 className="text-3xl font-semibold">Core Team Member</h1>
-                <p className="my-2">Cloud & Cyber Security veritcal</p>
+                <h1 className="text-3xl font-semibold">Divyansh Aggarwal</h1>
+                <p className="my-2">Core Member</p>
                 <p>
                   about member Lorem ipsum dolor sit amet consectetur
                   adipisicing elit. Facilis itaque assumenda saepe animi maxime
                   libero non quasi, odit natus veritatis enim culpa nam
                   inventore doloribus quidem temporibus amet velit accusamus.
                 </p>
+                <div className="mt-10 flex gap-10">
+                  <div>instagram</div>
+                  <div>linkdin</div>
+                </div>
               </div>
             </div>
           </div>
@@ -125,14 +142,18 @@ export default function Team() {
             </div>
             <div className="absolute my-rotate-y-180 backface-hidden w-full h-full bg-[#F4B400] overflow-hidden">
               <div className="text-center flex flex-col items-center justify-center h-full text-gray-800 px-2 pb-24">
-                <h1 className="text-3xl font-semibold">Core Team Member</h1>
-                <p className="my-2">Managment Head</p>
+                <h1 className="text-3xl font-semibold">Maanas Talware</h1>
+                <p className="my-2">Core Member</p>
                 <p>
                   about member Lorem ipsum dolor sit amet consectetur
                   adipisicing elit. Facilis itaque assumenda saepe animi maxime
                   libero non quasi, odit natus veritatis enim culpa nam
                   inventore doloribus quidem temporibus amet velit accusamus.
                 </p>
+                <div className="mt-10 flex gap-10">
+                  <div>instagram</div>
+                  <div>linkdin</div>
+                </div>
               </div>
             </div>
           </div>
@@ -149,14 +170,18 @@ export default function Team() {
             </div>
             <div className="absolute my-rotate-y-180 backface-hidden w-full h-full bg-[#0F9D58] overflow-hidden">
               <div className="text-center flex flex-col items-center justify-center h-full text-gray-800 px-2 pb-24">
-                <h1 className="text-3xl font-semibold">Core Team Member</h1>
-                <p className="my-2">Coding Vertical</p>
+                <h1 className="text-3xl font-semibold">Aditi Kulkarni</h1>
+                <p className="my-2">Core Member</p>
                 <p>
                   about member Lorem ipsum dolor sit amet consectetur
                   adipisicing elit. Facilis itaque assumenda saepe animi maxime
                   libero non quasi, odit natus veritatis enim culpa nam
                   inventore doloribus quidem temporibus amet velit accusamus.
                 </p>
+                <div className="mt-10 flex gap-10">
+                  <div>instagram</div>
+                  <div>linkdin</div>
+                </div>
               </div>
             </div>
           </div>
@@ -173,14 +198,18 @@ export default function Team() {
             </div>
             <div className="absolute my-rotate-y-180 backface-hidden w-full h-full bg-[#F4B400] overflow-hidden">
               <div className="text-center flex flex-col items-center justify-center h-full text-gray-800 px-2 pb-24">
-                <h1 className="text-3xl font-semibold">Core Team Member</h1>
-                <p className="my-2">Design Head</p>
+                <h1 className="text-3xl font-semibold">Sashi Raj Jha</h1>
+                <p className="my-2">Core Member</p>
                 <p>
                   about member Lorem ipsum dolor sit amet consectetur
                   adipisicing elit. Facilis itaque assumenda saepe animi maxime
                   libero non quasi, odit natus veritatis enim culpa nam
                   inventore doloribus quidem temporibus amet velit accusamus.
                 </p>
+                <div className="mt-10 flex gap-10">
+                  <div><img className="w-7" src={insta} alt="nolt found" /></div>
+                  <div>linkdin</div>
+                </div>
               </div>
             </div>
           </div>
