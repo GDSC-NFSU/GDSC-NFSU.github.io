@@ -2,7 +2,7 @@ import Holdon from "../images/staytune.png";
 export default function Event() {
   return (
     <div className="pb-28 mt-64 bg-gray-200" id="Event">
-      <h1 className="font-bold text-3xl bg-[#0F9D58] p-10 text-center hover:animate-bounce tracking-wide ">
+      <h1 className="font-bold text-3xl bg-[#0F9D58] p-10 text-center  tracking-wide ">
         {"< "}Upcoming Events{" />"}
       </h1>
       <div className="flex flex-wrap justify-around justify-center mt-10">

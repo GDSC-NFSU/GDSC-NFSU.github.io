@@ -58,9 +58,10 @@ function Toolbar() {
               "Weclome To Google Developers Student Club NFSU"
             </h1>
             <h2 className="tracking-wider text-left ">
-              This is where i shit myshlf and ask others for their help beacuse
-              i suck at giving qoutes and i am a chaman and fude i have dbms
-              exam i need to study but i am doing this instead
+              "Google Developer Student Club" is an elite community for
+              tech-savvy students to gain access to Google's resources,
+              mentorship, and opportunities to develop real-world projects,
+              network with industry experts, and turn passion into a career.
               <strong> ....I</strong>
             </h2>
           </div>
