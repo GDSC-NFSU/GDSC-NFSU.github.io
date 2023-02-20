@@ -4,6 +4,7 @@ import insta from "../images/instagram(1).png";
 import linkdin from "../images/linkedin.png";
 import twitter from "../images/twitter.png";
 import loc from "../images/placeholder.png";
+// © 
 export default function Foot() {
   return (
     <>
