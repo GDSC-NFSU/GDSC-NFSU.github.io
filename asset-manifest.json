@@ -1,12 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.3bfb1bd7.css",
-    "main.js": "/static/js/main.59757591.js",
+    "main.css": "/static/css/main.a89e6381.css",
+    "main.js": "/static/js/main.d2aefa53.js",
     "static/media/my p-p.png": "/static/media/my p-p.80a01cfa57ca64f1c2a8.png",
     "static/media/maanas.jpg": "/static/media/maanas.8d98332f244385ebd215.jpg",
     "static/media/event2.jpg": "/static/media/event2.b284648aaccc67fc002d.jpg",
     "static/media/avaneesh.jpg": "/static/media/avaneesh.91be7b3d08d31d492df4.jpg",
     "static/media/divyansh.jpg": "/static/media/divyansh.fdd3f24f9e336bc3998f.jpg",
+    "static/media/codefest.jpg": "/static/media/codefest.5081051e2f4ba2758704.jpg",
     "static/media/Aditi.jpeg": "/static/media/Aditi.895a558e6be0bff57c98.jpeg",
     "static/media/event1.webp": "/static/media/event1.4d278b79ccbe00564b56.webp",
     "static/media/gdsc-black.png": "/static/media/gdsc-black.875b581e618d589b883c.png",
@@ -23,11 +24,11 @@
     "static/media/linkedin.png": "/static/media/linkedin.032cf8a63be2f0f4d425.png",
     "static/media/shashi_raj.webp": "/static/media/shashi_raj.eb0c446264689b566420.webp",
     "index.html": "/index.html",
-    "main.3bfb1bd7.css.map": "/static/css/main.3bfb1bd7.css.map",
-    "main.59757591.js.map": "/static/js/main.59757591.js.map"
+    "main.a89e6381.css.map": "/static/css/main.a89e6381.css.map",
+    "main.d2aefa53.js.map": "/static/js/main.d2aefa53.js.map"
   },
   "entrypoints": [
-    "static/css/main.3bfb1bd7.css",
-    "static/js/main.59757591.js"
+    "static/css/main.a89e6381.css",
+    "static/js/main.d2aefa53.js"
   ]
 }
